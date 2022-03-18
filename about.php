@@ -1,6 +1,8 @@
-
+        <?php include("model/about.model.php"); ?>
+        
         <?php include("nav.inc.php"); ?>
         <!-- Page Header-->
+        
         <?php include("header.inc.php"); ?>
         <!-- Main Content-->
         <main class="mb-4">

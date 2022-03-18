@@ -1,8 +1,11 @@
-
+        <?php include("model/contact.model.php"); ?>
+        
+        
         <?php include("nav.inc.php"); ?>
         <!-- Page Header-->
         <?php include("header.inc.php"); ?>
         <!-- Main Content-->
+        
         <main class="mb-4">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
